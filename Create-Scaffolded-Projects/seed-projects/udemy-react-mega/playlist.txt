@@ -1,0 +1,36 @@
+ 
+3. Intro To The Project
+3min
+
+4. Getting Started With React
+5min
+
+5. eShop Header
+21min
+
+6. eShop Home Page
+14min
+
+7. React Props
+7min
+
+8. React Routing
+9min
+
+9. eShop Checkout Page
+20min
+
+10. React Context API
+21min
+
+11. Add To Basket
+12min
+
+12. Remove From Basket
+9min
+
+13. Authentication Using Firebase
+21min
+
+14. Deploying The App
+5min
