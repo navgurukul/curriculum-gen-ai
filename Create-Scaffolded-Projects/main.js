@@ -6,8 +6,7 @@ const { generateIdeas } = require('./generateIdeas');
 const { reviewAndModifyProjectGuide } = require('./reviewAndModifyProjectGuide');
 
 // get the key from the environment variable GEMINI_API_KEY and create a new instance of the GoogleGenerativeAI
-// const apiKey = process.env.GEMINI_API_KEY;
-const genAI = new GoogleGenerativeAI('AIzaSyCUAYjli_4GfuEbrH8Z7KMErqybMAD2G9g');
+const apiKey = process.env.GEMINI_API_KEY;
 
 async function main() {
     // Generate project ideas
